@@ -1,2 +1,1 @@
-Initial text in 1.txt
-new row in 1.txt file
+fix in 1.txt
